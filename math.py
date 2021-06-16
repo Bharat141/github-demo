@@ -6,7 +6,7 @@ def subtract(x,y):
     pass
 #v,cljkvbkv
 def multiply(x,y):
-    pass
+    return x*y
 #hgjkf
 def divide(x,y):
     pass
