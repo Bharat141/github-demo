@@ -9,4 +9,4 @@ def multiply(x,y):
     return x*y
 #hgjkf
 def divide(x,y):
-    pass
+    return x/y
