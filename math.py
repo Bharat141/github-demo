@@ -9,4 +9,8 @@ def multiply(x,y):
     return x*y
 #hgjkf
 def divide(x,y):
-    return x/y
+    if y==0:
+	   return Divide_by_zero_error
+	else:
+	   return x/y
+
