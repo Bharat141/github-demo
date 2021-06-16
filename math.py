@@ -1,6 +1,6 @@
 #gjdhfdf
 def add(x,y):
-    pass
+    return x+y
 #dgjfhj
 def subtract(x,y):
     pass
