@@ -13,4 +13,6 @@ def divide(x,y):
 	   return Divide_by_zero_error
 	else:
 	   return x/y
+def square(x):
+   return x*x
 
